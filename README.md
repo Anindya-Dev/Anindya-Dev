@@ -73,13 +73,9 @@ Brainware University | Aug 2023 — Jul 2027
 <div align="center">
 ## 📊 GitHub Stats
 
-![Anindya's GitHub Stats](https://github-readme-stats.vercel.app/api
-?username=Anindya-Dev
-&show_icons=true
-&rank_icon=github
-&theme=radical
-&include_all_commits=true
-&count_private=true)
+## 📊 GitHub Stats
+
+![Anindya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anindya-Dev&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true&count_private=true)
 ![Streak](assets/stats/contribution-streak.svg)
 ![Top Langs](assets/stats/top-languages.svg)
 
