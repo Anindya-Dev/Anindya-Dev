@@ -6,9 +6,9 @@ on:
 
   workflow_dispatch: # Allow manual triggering of the workflow
 
-  push: # Trigger on push to the master branch
+  push: # Trigger on push to the main branch
     branches:
-      - master
+      - main
 
 jobs:
   generate:
@@ -36,4 +36,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }} # Use your custom secret name here
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
