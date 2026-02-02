@@ -1,6 +1,8 @@
 <div align="center">
 
 <!-- HERO / TITLE -->
+![Hero](assets/hero-gradient-dark.svg)
+
 # 👋 Hi, I'm <Your Name>
 ### <Your Role / Tagline>
 
@@ -68,16 +70,16 @@ Hey there! I'm **<Your Name>**, a <year/role> <degree/track> student at <Institu
 ## 📈 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=dark&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=<your-username>&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](assets/stats/github-stats.svg)
+![Streak](assets/stats/contribution-streak.svg)
+![Top Langs](assets/stats/top-languages.svg)
 
 </div>
 
 ---
 
 ## 📊 GitHub Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-username>&theme=github-compact&hide_border=true)
+![Activity Graph](assets/stats/activity-graph.svg)
 
 ---
 
