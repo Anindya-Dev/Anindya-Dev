@@ -71,7 +71,6 @@ Brainware University | Aug 2023 — Jul 2027
 
 ## 📈 GitHub Stats
 <div align="center">
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 ![Streak](assets/stats/contribution-streak.svg)
@@ -108,7 +107,7 @@ Feel free to reach out at anindyaholycross@gmail.com for collaboration or just a
 ## ☕ Support & Connect
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://www.buymeacoffee.com/<your-id>)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://buymeacoffee.com/anindya)
 [![Follow](https://img.shields.io/badge/Follow-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anindya-Dev)
 
 </div>
