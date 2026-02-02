@@ -15,7 +15,7 @@
 ---
 
 <!-- NAVIGATION -->
-**👩‍💻 Introduction** • **🎓 Education** • **🛠️ Technologies** • **📌 Achievements** • **📫 Contact**
+**👩‍💻 Introduction** • **🎓 Education** • **🛠️ Technologies** • **📈 GitHub Stats** • **📫 Contact**
 
 ---
 
@@ -72,7 +72,6 @@ Brainware University | Aug 2023 — Jul 2027
 ## 📈 GitHub Stats
 <div align="center">
 
-## 📊 GitHub Stats
 ![Streak](assets/stats/contribution-streak.svg)
 ![Top Langs](assets/stats/top-languages.svg)
 
