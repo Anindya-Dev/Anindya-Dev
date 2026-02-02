@@ -1,15 +1,13 @@
 <div align="center">
 
 <!-- HERO / TITLE -->
-![Hero](assets/hero-gradient-dark.svg)
-
-# 👋 Hi, I'm <Your Name>
-### <Your Role / Tagline>
+# 👋 Hi, I'm Anindya Bhattacharya
+### B.Tech CSE (AI & ML) Student | Machine Learning | Computer Vision (YOLO) | Python
 
 <p>
-	<a href="https://www.linkedin.com/in/<your-id>/">LinkedIn</a> •
-	<a href="https://twitter.com/<your-id>">Twitter</a> •
-	<a href="mailto:<your-email>">Email</a>
+	<a href="https://www.linkedin.com/in/anindya-bhattacharya-83b68a254/">LinkedIn</a> •
+	<a href="https://x.com/dev_anindya">Twitter</a> •
+	<a href="mailto:anindyaholycross@gmail.com">Email</a>
 </p>
 
 </div>
@@ -17,18 +15,22 @@
 ---
 
 <!-- NAVIGATION -->
-**👩‍💻 Introduction** • **🎓 Education** • **🛠️ Technologies** • **📌 Projects** • **🏆 Achievements** • **📫 Contact**
+**👩‍💻 Introduction** • **🎓 Education** • **🛠️ Technologies** • **📌 Achievements** • **📫 Contact**
 
 ---
 
 ## 👩‍💻 Introduction
-Hey there! I'm **<Your Name>**, a <year/role> <degree/track> student at <Institute>. I enjoy building projects in <domains> and learning <interests>.
+Hi, I’m **Anindya Bhattacharya**, a **3rd-year B.Tech Computer Science & Engineering (AI & ML)** student.
+
+I have a strong interest in **Machine Learning** and enjoy working with **Python** to analyze data, build models, and understand how intelligent systems work. I like learning through hands-on practice, experimenting with algorithms, and improving model performance using real-world datasets.
+
+I am continuously developing my skills in **AI/ML** and looking for opportunities to learn, grow, and apply my knowledge in practical problem-solving environments.
 
 ---
 
 ## 🎓 Education
-**<Degree>, <Major/Track>**  
-<Institute> | <Start Year> — <Present/End Year>
+**Bachelor of Technology — B.Tech Computer Science (AIML)**  
+Brainware University | Aug 2023 — Jul 2027
 
 ---
 
@@ -84,39 +86,26 @@ Hey there! I'm **<Your Name>**, a <year/role> <degree/track> student at <Institu
 ---
 
 ## 🎯 Hobbies & Interests
-- 📚 Reading tech blogs
-- ♟️ Chess
-- ✈️ Traveling & exploring
-- 📷 Photography
-
----
-
-## 📌 Projects
-| Project | Description |
-|--------|-------------|
-| [Project One](https://github.com/<your-username>/<repo>) | Short one-line description of what it does. |
-| [Project Two](https://github.com/<your-username>/<repo>) | Short one-line description of what it does. |
-
----
+- 🏸 Playing Badminton
 
 ## 🏆 Achievements & Badges
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=<your-username>&theme=onedark&no-frame=true&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=Anindya-Dev&theme=onedark&no-frame=true&row=1&column=6)
 
 </div>
 
 ---
 
 ## 🌐 Online Presence
-- LinkedIn: https://www.linkedin.com/in/<your-id>/  
-- Twitter: https://twitter.com/<your-id>  
-- Portfolio: https://<your-domain>
+- LinkedIn: https://www.linkedin.com/in/anindya-bhattacharya-83b68a254/  
+- Twitter: https://x.com/dev_anindya  
+- Portfolio: https://dev-anindya.netlify.app/
 
 ---
 
 ## 📫 Contact
-Feel free to reach out at <your-email> for collaboration or just a quick chat about tech.
+Feel free to reach out at anindyaholycross@gmail.com for collaboration or just a quick chat about tech.
 
 ---
 
@@ -124,12 +113,12 @@ Feel free to reach out at <your-email> for collaboration or just a quick chat ab
 <div align="center">
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://www.buymeacoffee.com/<your-id>)
-[![Follow](https://img.shields.io/badge/Follow-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>)
+[![Follow](https://img.shields.io/badge/Follow-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anindya-Dev)
 
 </div>
 
 ---
 
 <div align="center">
-	© 2026 <Your Name>. All rights reserved.
+	© 2026 Anindya Bhattacharya. All rights reserved.
 </div>
