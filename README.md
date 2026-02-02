@@ -74,8 +74,6 @@ Brainware University | Aug 2023 — Jul 2027
 ## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
-
-![Anindya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anindya-Dev&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true&count_private=true)
 ![Streak](assets/stats/contribution-streak.svg)
 ![Top Langs](assets/stats/top-languages.svg)
 
@@ -90,11 +88,6 @@ Brainware University | Aug 2023 — Jul 2027
 
 ## 🎯 Hobbies & Interests
 - 🏸 Playing Badminton
-
-## 🏆 Achievements & Badges
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Anindya-Dev&theme=onedark&no-frame=true&row=1&column=6)
 
 </div>
 
