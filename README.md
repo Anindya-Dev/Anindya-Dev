@@ -12,6 +12,7 @@
 
 </div>
 
+![Snake animation](https://Anindya-Dev.github.io/Anindya-Dev/snake.svg)
 ---
 
 <!-- NAVIGATION -->
