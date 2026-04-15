@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO / TITLE -->
-# 👋 Hi, I'm Anindya Bhattacharya
+# 👋 Hi, I'm Anindya Bhattacharya..
 ### B.Tech CSE (AI & ML) Student | Machine Learning | Computer Vision (YOLO) | Python
 
 <p>
