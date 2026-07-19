@@ -1,18 +1,21 @@
 <div align="center">
 
 <!-- HERO / TITLE -->
-# 👋 Hi, I'm Anindya Bhattacharya..
-### B.Tech CSE (AI & ML) Student | Machine Learning | Computer Vision (YOLO) | Python
+# 👋 Hi, I'm Anindya Bhattacharya
+
+### Python Backend Developer • AI Engineer • FastAPI • LangChain • LLM Applications • RAG
 
 <p>
 	<a href="https://www.linkedin.com/in/anindya-bhattacharya-83b68a254/">LinkedIn</a> •
 	<a href="https://x.com/dev_anindya">Twitter</a> •
-	<a href="mailto:anindyaholycross@gmail.com">Email</a>
+	<a href="mailto:anindyaholycross@gmail.com">Email</a> •
+	<a href="https://dev-anindya.netlify.app/">Portfolio</a>
 </p>
 
 </div>
 
 ![Snake animation](https://Anindya-Dev.github.io/Anindya-Dev/snake.svg)
+
 ---
 
 <!-- NAVIGATION -->
@@ -21,93 +24,130 @@
 ---
 
 ## 👩‍💻 Introduction
-Hi, I’m **Anindya Bhattacharya**, a **3rd-year B.Tech Computer Science & Engineering (AI & ML)** student.
 
-I have a strong interest in **Machine Learning** and enjoy working with **Python** to analyze data, build models, and understand how intelligent systems work. I like learning through hands-on practice, experimenting with algorithms, and improving model performance using real-world datasets.
+Hi, I'm **Anindya Bhattacharya**, a **B.Tech Computer Science & Engineering (AI & ML)** student passionate about building **AI-powered backend applications**.
 
-I am continuously developing my skills in **AI/ML** and looking for opportunities to learn, grow, and apply my knowledge in practical problem-solving environments.
+I primarily work with **Python**, developing scalable backend systems using **FastAPI**, integrating **Large Language Models (LLMs)**, and building **Retrieval-Augmented Generation (RAG)** applications with **LangChain** and **Vector Databases**.
+
+I enjoy designing APIs, creating intelligent AI workflows, and deploying production-ready backend services. I'm continuously learning modern AI technologies and building projects that solve real-world problems.
 
 ---
 
 ## 🎓 Education
-**Bachelor of Technology — B.Tech Computer Science (AIML)**  
-Brainware University | Aug 2023 — Jul 2027
+
+**Bachelor of Technology — Computer Science & Engineering (AI & ML)**  
+**Brainware University**  
+**CGPA:** 8.32 (Till 5th Semester)  
+**Expected Graduation:** 2027
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Data Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
+### Databases
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E40C9?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & LLM
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF4D00?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-FF9800?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-6A1B9A?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Deployment
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### AI Skills
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF4D00?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
+
 <div align="center">
 
 ![Streak](assets/stats/contribution-streak.svg)
-![Top Langs](assets/stats/top-languages.svg)
+
+![Top Languages](assets/stats/top-languages.svg)
 
 </div>
 
 ---
 
 ## 📊 GitHub Activity Graph
+
 ![Activity Graph](assets/stats/activity-graph.svg)
 
 ---
 
-## 🎯 Hobbies & Interests
-- 🏸 Playing Badminton
+## 🚀 Current Focus
 
-</div>
+- 🤖 AI-powered Backend Development
+- 🧠 Large Language Model (LLM) Applications
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI & REST API Development
+- 🔍 Semantic Search & Vector Databases
+- ☁️ Deploying scalable AI applications
+
+---
+
+## 🎯 Hobbies & Interests
+
+- 🏸 Playing Badminton
+- 📖 Exploring AI Research
+- 💻 Building Backend Applications
 
 ---
 
 ## 🌐 Online Presence
-- LinkedIn: https://www.linkedin.com/in/anindya-bhattacharya-83b68a254/  
-- Twitter: https://x.com/dev_anindya  
-- Portfolio: https://dev-anindya.netlify.app/
+
+- 💼 LinkedIn: https://www.linkedin.com/in/anindya-bhattacharya-83b68a254/
+- 🐦 Twitter: https://x.com/dev_anindya
+- 🌐 Portfolio: https://dev-anindya.netlify.app/
+- 💻 GitHub: https://github.com/Anindya-Dev
 
 ---
 
 ## 📫 Contact
-Feel free to reach out at anindyaholycross@gmail.com for collaboration or just a quick chat about tech.
+
+Feel free to reach out for collaborations, open-source projects, backend development, or AI application development.
+
+📧 **anindyaholycross@gmail.com**
 
 ---
 
 ## ☕ Support & Connect
+
 <div align="center">
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000)](https://buymeacoffee.com/anindya)
+
 [![Follow](https://img.shields.io/badge/Follow-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anindya-Dev)
 
 </div>
@@ -115,5 +155,9 @@ Feel free to reach out at anindyaholycross@gmail.com for collaboration or just a
 ---
 
 <div align="center">
-	© 2026 Anindya Bhattacharya. All rights reserved.
+
+⭐ If you like my work, consider following me and checking out my repositories!
+
+© 2026 Anindya Bhattacharya
+
 </div>
